@@ -1,0 +1,16 @@
+PatientID,Name,Age,Gender,ZIP,BloodSugarLevel,BMI,Medication,Diagnosis
+P001,Asha Menon,23,M,560034,131.2,32.9,Metformin,Pre-Diabetic
+P002,Rohit Kumar,58,M,560045,136.8,25.5,Metformin,Pre-Diabetic
+P003,Priya Nair,22,M,560034,182.0,28.1,Diet Control,Type 2
+P004,Suresh Patel,70,F,560010,167.8,28.5,Metformin,Type 2
+P005,Neha Sharma,46,F,560045,155.2,28.1,Diet Control,Type 2
+P006,Amit Joshi,22,M,560045,140.2,23.5,Metformin,Pre-Diabetic
+P007,Kavita Rao,46,M,560072,122.5,28.1,Insulin,Pre-Diabetic
+P008,Manish Verma,29,M,560010,207.2,31.2,Insulin,Type 2
+P009,Sana Khan,37,M,560010,154.6,23.6,Metformin,Type 2
+P010,Vikram Singh,27,F,560010,198.2,23.3,Insulin,Type 2
+P011,Meera Iyer,47,M,560034,164.2,30.3,Diet Control,Type 2
+P012,Arjun Rao,44,F,560034,148.1,25.9,Insulin,Pre-Diabetic
+P013,Lata Devi,22,M,560045,180.4,23.8,Diet Control,Type 2
+P014,Ramesh Babu,37,F,560072,131.3,23.0,Metformin,Pre-Diabetic
+P015,Tina Paul,28,F,560072,129.9,28.6,Metformin,Pre-Diabetic
